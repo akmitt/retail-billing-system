@@ -25,4 +25,5 @@ Bill Amount Calculator for Retail Store
     To generate Cobertura reports run [mvn clean cobertura:cobertura -Pqualitycheck] . Reports will be generated in the target folder of the project.
  
  4. This Application uses Java 10 and JUnit4.10. IN order to run this from command line Java home and maven  path should be set in enviornment variable
+ 5. UML diagram is uploaded
  
